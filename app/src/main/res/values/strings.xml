@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsDash</string>
+    <string name="api_key">b0c8656e11c846ccad14e3ef87af0308</string>
+    <string name="general">general</string>
+    <string name="sports">sports</string>
+    <string name="entertainment">entertainment</string>
+    <string name="technology">technology</string>
+    <string name="science">science</string>
+    <string name="business">business</string>
+    <string name="health">health</string>
+</resources>
